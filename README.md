@@ -2,6 +2,10 @@
 
 ## By Mohammad Usman Asegaf
 
+### Contribution
+
+- Mohammad Usman Asegaf : membuat flutter app, membuat servicesnya, membuat ui dasar 
+
 ### Screenshots
 
 Men Generate 10 jokes tentang programming secara acak
