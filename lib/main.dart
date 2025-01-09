@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/joke_screen.dart';
+import 'package:fetch_api_programming_jokes/joke_screen.dart';
 
 void main() {
   runApp(MyApp());
