@@ -4,7 +4,7 @@
 
 ### Contribution
 
-- Mohammad Usman Asegaf : membuat flutter app, membuat servicesnya, membuat ui dasar 
+- Mohammad Usman Asegaf : membuat flutter app, membuat servicesnya untuk api, membuat ui dasar 
 
 ### Screenshots
 
